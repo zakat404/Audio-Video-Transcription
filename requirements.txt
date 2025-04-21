@@ -1,0 +1,6 @@
+torch
+librosa
+ffmpeg-python
+pydub
+transformers
+tqdm
